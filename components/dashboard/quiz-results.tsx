@@ -20,7 +20,7 @@ export function QuizResults({ score, onRestart }: QuizResultsProps) {
     <Card className="w-full max-w-md">
       <CardHeader className="text-center py-4">
         <CardTitle className="text-2xl">Quiz Results</CardTitle>
-        <CardDescription>You've completed all questions. Here's how you did:</CardDescription>
+        <CardDescription>You&apos;ve completed all questions. Here&apos;s how you did:</CardDescription>
       </CardHeader>
       <CardContent className="px-6 py-2">
         <div className="flex justify-center mb-4">
